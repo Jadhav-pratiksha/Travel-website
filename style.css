@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.intro {
+    text-align: center;
+    padding: 50px;
+}
+
+.recommendations {
+    padding: 20px;
+}
+
+.images img {
+    width: 45%;
+    margin-right: 10px;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.contact input[type="email"],
+.contact input[type="submit"] {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+}

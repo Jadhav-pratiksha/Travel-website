@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <section class="intro">
+        <h1>Welcome to Our Travel Website</h1>
+        <p>Discover beautiful places to visit around the world.</p>
+    </section>
+
+    <section class="recommendations">
+        <h2>Beach Recommendations</h2>
+        <div class="images">
+            <img src="https://assets.onecompiler.app/435f5ckdr/436avya8n/beach1.jpg" alt="Beach 1">
+            <img src="https://assets.onecompiler.app/435f5ckdr/436avya8n/beach2.webp" alt="Beach 2">
+        </div>
+    </section>
+    <section class="recommendations">
+        <h2>Temple Recommendations</h2>
+        <div class="images">
+            <img src="https://assets.onecompiler.app/435f5ckdr/436aw2xvg/temple1.webp" alt="Temple 1">
+            <img src="https://assets.onecompiler.app/435f5ckdr/436aw2xvg/temple2.webp" alt="Temple 2">
+        </div>
+    </section>
+    <section class="recommendations">
+        <h2>Recommendations by Country</h2>
+        <div class="images">
+            <img src="https://assets.onecompiler.app/435f5ckdr/436aw2xvg/country2.webp" alt="Country 1">
+            <img src="https://assets.onecompiler.app/435f5ckdr/436aw2xvg/country1.webp" alt="Country 2">
+        </div>
+    </section>
+
+</body>
+</html>
